@@ -36,7 +36,7 @@ To develop an interpretable and accurate sentiment analysis model using BERT, an
   - Text: `"The movie was absolutely fantastic!"`
   - LIME Explanation: Words like `"fantastic"` contributed positively.
   
-![LIME Sentiment Interpretation](images/lime_explanation.png)
+![LIME Sentiment Interpretation](images/Lime_Explanation.png)
 
 ---
 
