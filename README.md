@@ -76,9 +76,9 @@ Bert_sentiment_analysis_interpretation/
 ## 📬 Contact
 
 For queries or collaborations, feel free to connect:
-- **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Name**: Ravi Mutthina
+- **Email**: ravimutthina@gmail.com
+- **LinkedIn**
 
 ---
 
